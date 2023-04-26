@@ -757,7 +757,7 @@ function fnc_project_color(values, context) {
 
 
 
-function exp_HotelLTA_2rule0_eval_expression(context) {
+function exp_HotelLTA_3rule0_eval_expression(context) {
     // "Districts" IS NOT NULL
 
     var feature = context.feature;
